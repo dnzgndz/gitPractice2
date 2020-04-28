@@ -7,7 +7,7 @@ public class HappyBirthday {
         
         
         
-        System.out.println("how is this life going to be);
+        System.out.println("how is this life going to be");
         
         
         
